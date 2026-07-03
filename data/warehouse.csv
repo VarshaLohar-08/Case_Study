@@ -1,0 +1,16 @@
+warehouse_id,region,city,capacity_units,current_stock_units
+WH001,North,Delhi,5075,3503
+WH002,North,Chandigarh,9201,8499
+WH003,North,Jaipur,18598,16288
+WH004,South,Chennai,6419,6055
+WH005,South,Bangalore,14404,9437
+WH006,South,Hyderabad,14204,9622
+WH007,East,Kolkata,16454,9737
+WH008,East,Bhubaneswar,8719,7905
+WH009,East,Patna,7307,6840
+WH010,West,Mumbai,13550,11738
+WH011,West,Pune,11769,8388
+WH012,West,Ahmedabad,14098,13618
+WH013,Central,Bhopal,8495,5924
+WH014,Central,Nagpur,10646,4270
+WH015,Central,Raipur,14751,8637
