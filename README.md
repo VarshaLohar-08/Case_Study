@@ -175,10 +175,8 @@ After completing this project, the following Apache Spark concepts are demonstra
 
 ## Author
 
-**Name:** *Your Name*
+**Name:** *Varsha Lohar*
 
 **Course:** PGCP – Artificial Intelligence
 
 **Subject:** Apache Spark
-
-**Institution:** *Your College Name*
